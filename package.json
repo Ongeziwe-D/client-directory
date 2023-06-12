@@ -1,0 +1,28 @@
+{
+  "name": "directory-listing",
+  "version": "1.0.0",
+  "description": "client-directory-listing",
+  "main": "index.js",
+  "scripts": {
+    "test": "ng serve",
+    "build": "ng build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ongeziwe-D/client_application.git"
+  },
+  "author": "Ongeziwe Dunjwa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ongeziwe-D/client_application/issues"
+  },
+  "homepage": "https://github.com/Ongeziwe-D/client_application#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "express-graphql": "^0.12.0",
+    "fs": "^0.0.1-security",
+    "graphql": "^16.6.0"
+  }
+}
